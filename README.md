@@ -2,4 +2,4 @@
 Добро пожаловать! Это репозиторий для всего кода, который я использую в моих видео про HTML. Все разбито по папкам.
 
 Дополнительные ссылки:
-- (VS Code)[https://code.visualstudio.com]
+- [VS Code](https://code.visualstudio.com)
